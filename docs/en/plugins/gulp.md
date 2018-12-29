@@ -8,9 +8,7 @@ Configuration
 
 ### Options
 
-* **directory** [string, optional] - The directory in which to run Gulp (defaults to build root.)
-* **gulp** - **[DEPRECATED]** Option `gulp` is deprecated and will be deleted in version 2.0. Use the option 
-`binary_path` and `binary_name` instead.
+* **directory** [string, optional] - The directory in which to run Grunt (defaults to build root.)
 * **binary_name** [string|array, optional] - Allows you to provide a name of the binary
 * **binary_path** [string, optional] - Allows you to provide a path to the binary
 * **gulpfile** [string, optional] - GulpFile to run (defaults to `gulpfile.js`).
